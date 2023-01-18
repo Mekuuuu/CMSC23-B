@@ -1,0 +1,7 @@
+If you are assigned the following tasks:
+
+	Create a JDBC Connection
+	Create MySQL Adapter for JDBC Connection
+	Create Oracle Adapter for JDBC Connection
+
+then upload your files / codes in this package / folder. 

@@ -1,0 +1,9 @@
+If you are assigned the following tasks:
+
+	Validator Interface Class
+	Email Validator
+	Phone Number Validator
+	Date Validator
+	Exception / Error Messages Handling
+
+then upload your files / codes in this package / folder. 

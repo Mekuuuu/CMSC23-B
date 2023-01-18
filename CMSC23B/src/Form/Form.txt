@@ -1,0 +1,13 @@
+If you are assigned the following tasks:
+
+	Create a Base Class Form Object
+	Create a Base Class Form Item Object
+	Text Box
+	Text Area
+	Radio Button
+	Check Box
+	Combo Box
+	File / BLOB
+	Table / List
+
+then upload your files / codes in this package / folder. 
