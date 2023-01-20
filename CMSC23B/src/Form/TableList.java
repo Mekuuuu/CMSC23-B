@@ -72,9 +72,9 @@ public class TableList {
 		try{
 			//placeholders
 			String driver = "com.mysql.jdbc.Driver";
-			String url = "jdbc:mysql://24.196.52.166:3306/testdb";
-			String username = "javadata";
-			String password = "mypass";
+			String url = "jdbc:oracle:thin:@localhost:1521:orcl";
+			String username = "system";
+			String password = "system";
 			Class.forName(driver);
 
 			Connection conn = DriverManager.getConnection(url, username, password);
