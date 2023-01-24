@@ -22,5 +22,5 @@ public class DbConnect {
 	    System.out.println("Class not found exception");
 	}
 	return conn;	
-    }
+    } 
 }
